@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/minoiltu0051/eclipse-workspace/GST/src/test/java/StepDefination/impinv2.java"/>
 			<item value="/home/minoiltu0051/eclipse-workspace/proj1/src/proj1/first.java"/>
 			<item value="/home/minoiltu0051/eclipse-workspace/first/src/main/java/test1/tst1.java"/>
 		</list>
@@ -45,6 +46,8 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="maven2"/>
+			<item value="GST1"/>
 			<item value="run"/>
 			<item value="second"/>
 			<item value="first"/>
@@ -52,6 +55,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="maven"/>
+			<item value="GST"/>
 			<item value="run"/>
 			<item value="second"/>
 			<item value="first"/>
